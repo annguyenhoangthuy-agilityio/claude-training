@@ -24,6 +24,7 @@ Required courses: Claude 101, AI Fluency, AI Capabilities and Limitations.
 claude-training/
 ├── README.md            # This file
 ├── PROGRESS.md          # Planned vs actual tracker
+├── CLAUDE.md            # Working rules for Claude in this repo
 ├── notes/               # Notes per module (day-01.md ...) + learning-log.md
 ├── exercises/           # One folder per exercise (input / output / prompts)
 ├── skills/              # Custom Claude skills (one folder each, with SKILL.md)
@@ -55,9 +56,11 @@ exercises/day-04-requirements-analysis/
 | Prefix | Use for | Example |
 |---|---|---|
 | `setup/` | Repo setup and maintenance | `setup/repo-structure` |
+| `notes/` | Standalone notes | `notes/git-guideline` |
 | `day-XX/` | Module notes & exercises | `day-04/requirements-analysis` |
 | `skill/` | Creating or updating a skill | `skill/user-story-writer` |
 | `capstone/` | Capstone work | `capstone/test-plan` |
+| `claude/` | Changes prepared by Claude (see CLAUDE.md) | `claude/add-ai-fluency-notes` |
 
 ### Commit messages
 Format: `<type>: <short description>`
