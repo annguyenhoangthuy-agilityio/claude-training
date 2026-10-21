@@ -25,7 +25,6 @@ claude-training/
 ├── README.md            # This file
 ├── PROGRESS.md          # Planned vs actual tracker
 ├── notes/               # Notes per module (day-01.md ...) + learning-log.md
-├── courses/             # Notes for the required courses
 ├── exercises/           # One folder per exercise (input / output / prompts)
 ├── skills/              # Custom Claude skills (one folder each, with SKILL.md)
 ├── templates/
