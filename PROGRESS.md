@@ -2,7 +2,7 @@
 
 **Last updated:** 2026-10-21
 **Learning mode:** Self-paced – allocated to another project in parallel
-**Current focus:** Repo setup
+**Current focus:** Claude 101
 **Blockers:** Limited study time due to parallel project allocation
 
 ## Status legend
@@ -20,7 +20,7 @@
 | Course | Status | Completed on | Notes |
 |---|---|---|---|
 | Claude 101 | ⏸ | | |
-| AI Fluency | ⏸ | | |
+| AI Fluency | ✅ | | [notes/course-ai-fluency.md](notes/course-ai-fluency.md) |
 | AI Capabilities and Limitations | ⏸ | | |
 
 ## Modules – planned vs actual
