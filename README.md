@@ -26,7 +26,7 @@ claude-training/
 ├── PROGRESS.md          # Planned vs actual tracker
 ├── CLAUDE.md            # Working rules for Claude in this repo
 ├── notes/               # Notes per module (day-01.md ...) + learning-log.md
-├── exercises/           # One folder per exercise (input / output / prompts)
+├── exercises/           # One file per exercise + its source material
 ├── skills/              # Custom Claude skills (one folder each, with SKILL.md)
 ├── templates/
 │   ├── ba/              # User story, ticket, release notes
@@ -43,13 +43,12 @@ claude-training/
 - Lowercase, kebab-case, no spaces or accented characters: `day-04-requirements-analysis`
 - Always two-digit module numbers: `day-01`, not `day-1`
 
-### Exercise folder layout
+### Exercise files
+One Markdown file per exercise output, plus its source material, directly in `exercises/`:
 ```
-exercises/day-04-requirements-analysis/
-├── README.md     # Task, approach, reflection
-├── input/        # Source materials (sanitized)
-├── output/       # Deliverables
-└── prompts.md    # Prompts used + what worked / didn't
+exercises/
+├── day-02-exercise.md           # Exercise prompts and results
+└── day-02-training-backlog.md   # Source material (sanitized)
 ```
 
 ### Branches

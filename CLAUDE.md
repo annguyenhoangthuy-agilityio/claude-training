@@ -42,7 +42,7 @@ Follow `README.md`. Summary:
 - **Where files go:**
   - Module notes: `notes/day-XX.md`
   - Course notes: `notes/course-<course-name>.md`
-  - Exercises: `exercises/day-XX-<topic>/` with `README.md`, `input/`, `output/`, `prompts.md`
+  - Exercises: `exercises/day-XX-exercise.md` (prompts + results) and source material as `exercises/day-XX-<name>.md`
   - Skills: `skills/<skill-name>/SKILL.md`
   - Templates: `templates/ba/`, `templates/qa/`
   - Prompts: `prompts/ba/`, `prompts/qa/`
