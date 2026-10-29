@@ -1,0 +1,2 @@
+- 2026-10-21 – Claude 101: prompting framework and iteration, evals, Chat / Cowork / Code tabs, Projects, Artifacts, Skills, Connectors, Enterprise Search, Research, and other Claude tools
+- 2026-10-29 – Day 01–03 (Shared Fundamentals): marked complete
