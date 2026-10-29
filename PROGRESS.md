@@ -1,8 +1,8 @@
 # Training Progress
 
-**Last updated:** 2026-10-21
+**Last updated:** 2026-10-29
 **Learning mode:** Self-paced – allocated to another project in parallel
-**Current focus:** Claude 101
+**Current focus:** Day 04 – Shared BA/QA activities
 **Blockers:** Limited study time due to parallel project allocation
 
 ## Status legend
@@ -19,7 +19,7 @@
 
 | Course | Status | Completed on | Notes |
 |---|---|---|---|
-| Claude 101 | ⏸ | | |
+| Claude 101 | 🔄 | | [notes/course-claude-101.md](notes/course-claude-101.md) |
 | AI Fluency | ✅ | | [notes/course-ai-fluency.md](notes/course-ai-fluency.md) |
 | AI Capabilities and Limitations | ⏸ | | |
 
@@ -27,9 +27,9 @@
 
 | Module | Topic | Planned | Actual start | Actual done | Status | Notes |
 |---|---|---|---|---|---|---|
-| Day 01 | Shared Fundamentals | | | | ⏸ | |
-| Day 02 | Shared Fundamentals | | | | ⏸ | |
-| Day 03 | Shared Fundamentals | | | | ⏸ | |
+| Day 01 | Shared Fundamentals | | | 2026-10-29 | ✅ | |
+| Day 02 | Shared Fundamentals | | | 2026-10-29 | ✅ | Exercise: `exercises/day-02-exercise.md` |
+| Day 03 | Shared Fundamentals | | | 2026-10-29 | ✅ | |
 | Day 04 | Shared BA/QA activities | | | | ⏸ | |
 | Day 05 | Shared BA/QA activities | | | | ⏸ | |
 | Day 06 | Shared BA/QA activities | | | | ⏸ | |
