@@ -1,6 +1,6 @@
 # Training Progress
 
-**Last updated:** 2026-10-29
+**Last updated:** 2026-11-05
 **Learning mode:** Self-paced – allocated to another project in parallel
 **Current focus:** Day 04 – Shared BA/QA activities
 **Blockers:** Limited study time due to parallel project allocation
@@ -19,9 +19,9 @@
 
 | Course | Status | Completed on | Notes |
 |---|---|---|---|
-| Claude 101 | 🔄 | | [notes/course-claude-101.md](notes/course-claude-101.md) |
-| AI Fluency | ✅ | | [notes/course-ai-fluency.md](notes/course-ai-fluency.md) |
-| AI Capabilities and Limitations | ⏸ | | |
+| Claude 101 | ✅ | 2026-10-29 | [notes/course-claude-101.md](notes/course-claude-101.md) · [badge](notes/badges/badge-claude-101.pdf) |
+| AI Fluency | ✅ | 2026-10-16 | [notes/course-ai-fluency.md](notes/course-ai-fluency.md) · [badge](notes/badges/badge-ai-fluency.pdf) |
+| AI Capabilities and Limitations | ✅ | 2026-11-05 | [notes/course-ai-capabilities-and-limitations.md](notes/course-ai-capabilities-and-limitations.md) · [badge](notes/badges/badge-ai-capabilities-and-limitations.pdf) |
 
 ## Modules – planned vs actual
 
